@@ -16,18 +16,13 @@
 }
 table {
   width: 600px;
+  font-size: 16px;
 }
 
 .index {
   background-image: url("images/dog.png") no-repeat center fixed;
   background-size: cover;
-  
-
 }
-tr {
-  width: 100%;
-  height: 100%;
- }
 
 p{
   font-family: Rubik;
@@ -36,7 +31,7 @@ p{
 }
 .fecha {
   font-family: Rubikbold;
-  font-size: 1.3em;
+  font-size: 1.7em;
    margin-top: 0.01em;
 }
 .rubiklight {
@@ -60,7 +55,6 @@ h1{
   font-size: 2.4em;
 
 }
-
 .pagina {
   border:3px solid white;
   background-color: white;
@@ -111,8 +105,6 @@ ol li{
 
   background-size:  auto;
 -webkit-background-size: 45% , cover;
- /*   -moz-background-size: cover;
-  -o-background-size: cover;*/
 }
 
 .exp p {
@@ -175,24 +167,24 @@ ol li{
   height: auto;
   display: inline;
 }
-/*
 @media screen and (max-width: 600px) {
-  table thead {
-    display: none;
+  table {
+  width: auto;
+  background-size: auto;
   }
-  table tr {
-    border-bottom: 3px solid #ddd;
-    display: block;
+  .pie {
+    width: auto;
   }
-  table td {
+  .pie tr {
+
+  }
+  .pie td {
     border-bottom: 1px solid #ddd;
     display: block;
-    text-align: right;
+    text-align: center;
   }
-  table td:before {
+  .pie td:before {
     content: attr(aria-label);
     float: left;
   }
 } 
-
-*/
