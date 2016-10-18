@@ -1,0 +1,205 @@
+<mjml>
+  <mj-head>
+    <mj-font name="rubik" href="https://fonts.googleapis.com/css?family=Rubik:300,400,700,700i" />
+    <mj-attributes>
+      <mj-all font-family="rubik" padding-right="0" />
+      <mj-class name="inline" display="inline" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-container>
+
+  <!--   <mj-section background-color="#ffffff" hidden="false" name="Nouvelle section" image-id="19003" background-url="https://raw.githubusercontent.com/JosManMx/perros/master/images/dog.png" background-size="cover" padding-bottom="20" padding-top="20">
+        <mj-column vertical-align="top" width="53%">
+          <mj-image src="https://raw.githubusercontent.com/JosManMx/perros/master/images/logoexpocolombia.png" alt="" align="left" border="none" width="259.2" vertical-align="top" padding-left="25" padding-right="25" padding-bottom="22" padding-top="22">
+         
+          </mj-image>
+           <mj-text font-weight="700" font-style="italic" padding-top="0" text-align="left" color="white" font-size="30" line-height="40">Octubre 23 al 26
+            <mj-text font-weight="700" font-style="italic" padding-top="0" text-align="left" color="white" font-size="30">Bogotá 2016</mj-text>
+          </mj-text>
+        </mj-column>
+        <mj-column width="44%">
+          
+        </mj-column>
+      </mj-section> -->
+
+      <!-- header -->
+      <mj-section background-url="https://raw.githubusercontent.com/JosManMx/perros/master/images/dog.png" background-size="auto 100%" background-color="white">
+
+        
+        <mj-group>
+        <mj-column width="60%">
+
+          <mj-image width="300" padding-top="0" src="https://raw.githubusercontent.com/JosManMx/perros/master/images/logoexpocolombia.png" />
+
+          <mj-text font-weight="700" font-style="italic" padding-top="0" text-align="left" color="white" font-size="30" line-height="40">Octubre 23 al 26
+            <mj-text font-weight="700" font-style="italic" padding-top="0" text-align="left" color="white" font-size="30">Bogotá 2016</mj-text>
+          </mj-text>
+
+          <mj-text font-weight="300" padding-top="0" text-align="left" color="white" font-size="15">LA FERIA MÁS IMPORTANTE DE COLOMBIA, ESPECIALIZADA EN MASCOTAS
+          </mj-text>
+          <mj-button background-color="white" color="#4CAF50" border-radius="30" width="70%" href="#" font-weight="700" font-size="15">
+            www.expopetcolombia.com
+          </mj-button>
+          <mj-spacer height="80px" />
+        </mj-column>
+        <mj-column width="40%">
+        </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <!-- why -->
+      <mj-section background-url="https://raw.githubusercontent.com/JosManMx/perros/master/images/familydog.jpg" background-size="100% 100%" background-color="white" padding="0">
+        <mj-group>
+        <mj-column width="60%">
+          <mj-text font-weight="700" font-style="italic" padding-top="0" text-align="left" font-size="30" line-height="40" color="#2b72b6">¿Por qué</mj-text>
+          <mj-text font-weight="700" font-style="italic" padding-top="0" padding-left="50" text-align="left" font-size="30" line-height="0" color="#2b72b6">participar?</mj-text>
+
+          <mj-list font-weight="700" font-style="italic" padding-top="0" padding-right="20" text-align="left" font-size="15" color="#2b72b6" line-height="1.5">
+            <li>Porque el <strong> 37% </strong>de la población Colombiana tiene mascotas.</li>
+            <li>Porque el mercado colombiano tiene una creciente demanda de productos y servicios para la manutención de animales de compañía.</li>
+            <li>Porque vendrán cerca de <strong>12.000</strong> visitantes y<strong> 100</strong> expositores.</li>
+            <li>Porque habrá una completa agenda académica especializada con más de <strong>2000</strong> profesionales.</li>
+          </mj-list>
+
+        </mj-column>
+
+        <mj-column width="40%"></mj-column>
+
+        <mj-spacer height="80px" />
+        </mj-group>
+      </mj-section>
+
+      <!-- profiles -->
+      <mj-section background-url="https://raw.githubusercontent.com/JosManMx/perros/master/images/bgbloqa.png" background-size="100% 100%" background-repeat="no-repeat" background-color="white" padding="0">
+
+
+
+        <mj-section>
+          <mj-group>
+          <mj-column width="60%">
+            <mj-spacer height="180px" /></mj-column>
+          <mj-column width="40%">
+            <mj-spacer height="20px" />
+            <mj-text font-weight="700" font-style="italic" text-align="center" font-size="30" color="white">Perfil del</mj-text>
+            <mj-text font-weight="700" font-style="italic" text-align="center" font-size="30" color="white" padding-left="50">Expositor</mj-text>
+          </mj-column>
+          </mj-group>
+        </mj-section>
+
+
+
+        <mj-section>
+          <mj-column width="100%">
+
+            <mj-text font-weight="400" text-align="right" font-size="13" color="white" padding-top="0" padding-right="30">
+              Productores y distribuidores de los siguientes ítems para <strong>caninos, felinos, especies piscícolas, fauna aviar y equinos:</mj-text>
+
+            <mj-list font-weight="700" font-style="italic" padding-top="0" padding-right="30"  text-align="left" font-size="13" color="white" line-height="1.5">
+              <li>Nutrición, alimentación y sus artículos, salud animal (laboratorios farmacéuticos), estética y embellecimiento, accesorios, transporte, educación y entretenimiento.</li>
+              <li>Criaderos, tiendas de mascotas, cría doméstica, veterinarias, fundaciones especializadas en protección y adopción de animales.</li>
+              <li>Suministros y accesorios para tiendas de mascotas y el hogar.</li>
+              <li>Servicios especializados de entrenamiento, guardería y terapias.</li>
+            </mj-list>
+            <mj-spacer height="50px" />
+          </mj-column>
+
+        </mj-section>
+
+        <mj-section>
+          <mj-column> 
+
+            <mj-text font-weight="700" font-style="italic" text-align="right" font-size="30" color="white">Perfil del</mj-text>
+            <mj-column>
+              <mj-text font-weight="700" font-style="italic" text-align="right" font-size="30" color="white" padding-left="50">Visitante</mj-text>
+            </mj-column>
+
+
+          </mj-column>
+
+        </mj-section>
+
+
+
+        <mj-section padding="0">
+        <mj-group>
+          <mj-column width="60%">
+
+            <mj-list font-weight="700" font-style="italic" padding-top="0" padding-bottom="0" padding-right="20" text-align="left" font-size="13" color="white" line-height="1.5">
+              <li>Tiendas y comercios de equipamiento para animales.</li>
+              <li>Grandes superficies y distribuidores.</li>
+              <li>Médicos veterinarios y zootecnistas.</li>
+              <li>Estilistas y peluqueros de mascotas.</li>
+              <li>Criadores, educadores y adiestradores.</li>
+              <li>Guarderías, albergues y zoológicos.</li>
+              <li>Clubes de raza.</li>
+              <li>Entidades protectoras de animales y refugios.</li>
+              <li>Instituciones gubernamentales (el ejército y la policía).</li>
+              <li>Empresas de seguridad privada.</li>
+              <li>Fundaciones y ONG´s.</li>
+              <li>Público general.</li>
+            </mj-list>
+
+          </mj-column>
+
+
+          <mj-column padding="0" width="40%">
+            <mj-spacer height="20px" />
+            <mj-hero height="400px" width="600px" background-width="600px" background-height="600px" background-url="https://raw.githubusercontent.com/JosManMx/perros/master/images/doctor.png" text-align="right" background-color="#009886" padding="0">
+            </mj-hero>
+          </mj-column>
+        </mj-group>
+        </mj-section>
+      </mj-section>
+
+
+      <!-- contact -->
+      <mj-section background-color="white" width="600">
+        <mj-group>
+        <mj-column>
+          <mj-text padding="0 0 0 20" line-height="15" font-size="15"> CONTACTOS:</mj-text>
+          <mj-text padding="0 0 0 20" font-weight="700" line-height="15" font-size="15"> FELIPE POLOCHE</mj-text>
+          <mj-text padding="0 0 0 20" line-height="15" font-size="15"> Coordinador Comercial Internacional</mj-text>
+          <mj-text padding="0 0 0 20" line-height="15" font-size="15"> Tel: (+57-1) 3810000 Ext. 5424</mj-text>
+          <mj-text padding="0 0 0 20" font-weight="700" line-height="15" font-size="15"> fpoloche@corferias.com</mj-text>
+          <mj-spacer height="20px" />
+        </mj-column>
+        <mj-column>
+          <mj-text padding="0 0 0 20" font-weight="700" line-height="15" font-size="15"> ÚRSULA SANCHEZ</mj-text>
+          <mj-text padding="0 0 0 20" line-height="15" font-size="15"> Coordinadora de Misiones Internacionales</mj-text>
+          <mj-text padding="0 0 0 20" line-height="15" font-size="15"> Tel Directo: (+57-1) 344-5612 </mj-text>
+          <mj-text padding="0 0 0 20" line-height="15" font-size="15"> PBX: (+57-1) 381-0000 Ext. 5322 </mj-text>
+          <mj-text padding="0 0 0 20" font-weight="700" line-height="15" font-size="15"> msanchez@corferias.com</mj-text>
+        </mj-column>
+        </mj-group>
+      </mj-section>
+
+
+      <!-- Social icons -->
+      <mj-section background-color="#f0f0f0">
+        <mj-group>
+        <mj-column>
+
+          <mj-html>
+            <div style="width: 100%; text-align:center;">
+              <a href="https://www.facebook.com/corferias"> <img src="http://corferias.com/img/facebook.jpg" style="display: inline; width 30px; text-align: center;"></a>
+              <a href="https://twitter.com/CorferiasBogota"> <img src="http://corferias.com/img/twitter.jpg" style="display: inline; width 30px;"></a>
+              <a href="http://co.linkedin.com/company/corferias"> <img src="http://corferias.com/img/linkedin.jpg" style="display: inline; width 30px;"></a>
+              <a href="https://plus.google.com/+corferias"> <img src="http://corferias.com/img/google.jpg" style="display: inline; width 30px;"></a>
+              <a href="http://www.youtube.com/user/Corferiasbta"> <img src="http://corferias.com/img/youtube.jpg" style="display: inline; width 30px;"></a>
+              <a href="http://instagram.com/corferias"> <img src="http://corferias.com/img/instagram.jpg" style="display: inline; width 30px;"></a>
+
+              <a href="http://corferias.com/"> <img src="http://corferias.com/img/corferias.png" style="display: inline; height:50px; width 100px; vertical-align: bottom;"></a>
+
+
+            </div>
+          </mj-html>
+
+
+
+        </mj-column>
+      </mj-section>
+
+    </mj-container>
+  </mj-body>
+</mjml>
